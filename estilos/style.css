@@ -2,7 +2,7 @@
 
 /*
   Paleta de Cores
-  Azul: #075959 #88E8F2
+  Azul: #88E8F2
   Laranja: #F2B077
 */
 
@@ -52,4 +52,13 @@ section#login > div#imagem {
 section#login > div#formulario {
   display: block;
   padding: 10px;
+}
+
+div#formulario > h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+div#formulario > p {
+  font-size: 0.8em;
 }

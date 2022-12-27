@@ -80,7 +80,6 @@ div.campo > label {
 
 div.campo > span {
   color: black;
-  /* background-color: black; */
   font-size: 1.6em;
   width: 30px;
   padding: 5px;
@@ -93,7 +92,7 @@ div.campo > input {
   border: 0px;
   border-radius: 8px;
   padding: 4px;
-  transform: translateY(-5px); /* Animação por último */
+  transform: translateY(-6px); /* Animação por último */
 }
 
 form > input[type=submit] {
